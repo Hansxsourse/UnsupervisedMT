@@ -45,7 +45,7 @@ The PBSMT implementation will require a working implementation of Moses, which y
 The first thing to do to run the NMT model is to download and preprocess data. To do so, just run:
 
 ```
-git clone https://github.com/facebookresearch/UnsupervisedMT.git
+git clone https://github.com/Hansxsourse/UnsupervisedMT.git
 cd UnsupervisedMT/NMT
 ./get_data_enfr.sh
 ```
